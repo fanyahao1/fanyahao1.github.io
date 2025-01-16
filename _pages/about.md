@@ -26,7 +26,6 @@ Email :fanyahao12024 AT shanghaitech DOT edu DOT cn
 
 
 
-# 🎖 Honors and Awards
 
 # 📖 Educations
 - *2024.09 - now*,ShanghaiTech University,School of Information Science and Technology,Major in **Computer Technology**
