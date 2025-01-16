@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhenhao Zhang"
+title                    : "Yahao Fan"
 description              : "VDI,SIST,ShanghaiTech University"
-repository               : "Zhenhao-Zhang/Zhenhao-Zhang.github.io"
+repository               : "yahaofan1/yahaofan1.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhenhao Zhang 章震豪"
-  avatar           : "images/me.png"
+  name             : "Yahao Fan 范亚豪"
+  avatar           : "images/me.jpg"
   bio              : "Master Student"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.hk/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=dV36HmYAAAAJ"
-  email            : "zhangzhh2024@shanghaitech.edu.cn"
+  googlescholar    : #"https://scholar.google.com.hk/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=dV36HmYAAAAJ"
+  email            : "fanyahao12024@shanghaitech.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Zhenhao-Zhang"
+  github           : "fanyahao1"
   google_plus      :
   keybase          :
   instagram        :
