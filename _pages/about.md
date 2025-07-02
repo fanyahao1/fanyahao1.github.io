@@ -17,22 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Current a First-year Master student in VDI Center,ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io), who is an expert in the field of Machine Learning. I get B.E. Degree in Zhengzhou University.
+I am Current a First-year Master student in VDI Center, ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io), who is an expert in the field of Optimization, Generative Model, Reinforcement Learning, Embodied AI. I get B.E. Degree in Zhengzhou University.
 
 My Research interest include Embodied AI, Humanoid, Reinforcement Learning for Robotics.
 
 Email: fanyahao12024 AT shanghaitech DOT edu DOT cn
-
-
-
-
-
-# 📖 Educations
-- *2024.09 - now*, ShanghaiTech University, School of Information Science and Technology, major in **Computer Technology**
-- *2020.09 - 2024.06*, Zhengzhou University, major in **Computer Science and Technology**
-
-# 💻 Interships
-- *2024.3-2024.9*, Visiting Student, ShanghaiTech University, VDI Center, YesAI Lab
 
 
 # 📝 Publications
@@ -49,3 +38,11 @@ Email: fanyahao12024 AT shanghaitech DOT edu DOT cn
 
 </div>
 </div>
+
+# 📖 Educations
+- *2024.09 - now*, ShanghaiTech University, School of Information Science and Technology, major in **Computer Technology**
+- *2020.09 - 2024.06*, Zhengzhou University, major in **Computer Science and Technology**
+
+
+# 💻 Interships
+- *2024.3-2024.9*, Visiting Student, ShanghaiTech University, VDI Center, YesAI Lab

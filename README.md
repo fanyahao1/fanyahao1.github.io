@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning Robotics.
 - 💬 Ask me about anything about Machine Learning and other interesting, and I will try my best to help you :)
 - 📫 How to reach me: 
-  - Email: fanyahao12024@shanghaitech.edu.cn
+  - Email: fanyh12024@shanghaitech.edu.cn
   - Blog: <a href="https://fanyahao1.github.io/">My Blog</a>
   
 

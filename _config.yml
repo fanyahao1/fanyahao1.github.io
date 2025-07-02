@@ -22,12 +22,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yahao Fan 范亚豪"
-  avatar           : "images/me1.jpg"
+  avatar           : "images/me.jpg"
   bio              : "Live a life you will remember."
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : #"https://scholar.google.com.hk/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=dV36HmYAAAAJ"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=ub1oO30AAAAJ&hl=zh-CN"
   email            : "fanyahao12024@shanghaitech.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
