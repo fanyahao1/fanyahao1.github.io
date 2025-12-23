@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Yahao Fan"
-description              : "VDI,SIST,ShanghaiTech University"
-repository               : "yahaofan1/yahaofan1.github.io"
+description              : "VDI, SIST, ShanghaiTech University"
+repository               : "fanyahao1/fanyahao1.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=ub1oO30AAAAJ&hl=zh-CN"
-  email            : "fanyahao12024@shanghaitech.edu.cn"
+  email            : "fanyh12024@shanghaitech.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
