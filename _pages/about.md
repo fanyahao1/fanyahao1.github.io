@@ -19,7 +19,7 @@ redirect_from:
 
 I am Current a First-year Master student in VDI Center, ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io), who is an expert in the field of Optimization, Generative Model, Reinforcement Learning, Embodied AI. I get B.E. Degree in Zhengzhou University.
 
-My Research interest include Embodied AI, Humanoid, Reinforcement Learning for Robotics.
+My Research interest include Embodied AI, Legged Robots and Simulation infrastructure. I am looking for internship and full-time opportunities in these areas. If you are interested in my research or want to collaborate with me, please feel free to contact me! You can find my Curriculum Vitae **[here](/assets/pdf/Curriculum_Vitae.pdf)**.
 
 Email: fanyahao12024 AT shanghaitech DOT edu DOT cn
 
@@ -28,14 +28,34 @@ Email: fanyahao12024 AT shanghaitech DOT edu DOT cn
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='papers/DreamPolicy/DreamPolicy.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+**DreamPolicy: A Unified World-model Policy for Scalable Humanoid Locomotion, ArXiv.** 
 
-**One Policy but Many Worlds: A Scalable Unified Policy for Versatile Humanoid Locomotion, ArXiv.** 
-
-**Yahao Fan\#**, Tianxiang Gui\#, Kaiyang Ji\#, Shutong Ding, Chixuan Zhang, Jiayuan Gu, Jingyi Yu, Jingya Wang\*, Ye Shi\*
+**Yahao Fan\#**, Tianxiang Gui\#, Kaiyang Ji\#, Shutong Ding, Chixuan Zhang, Yifeng Xu, Ke Yang, Jiayuan Gu, Jingyi Yu, Jingya Wang, Ye Shi\*
 
 [[**paper**]](https://arxiv.org/abs/2505.18780)
 [[**project**]](https://dreampolicy.github.io/)  
+</div>
+</div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025 Workshop</div><img src='papers/Sisyphus/Sisyphus.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Sisyphus: An attention-driven humanoid object interaction policy, IROS 2025 Workshop: Augmentative Human–Robot Interaction.** 
+
+Tianxiang Gui, Ke Yang, **Yahao Fan**, Chixuan Zhang, Jingya Wang\*, Ye Shi\*
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='papers/Humanoid-lla/humanoidlla.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Commanding humanoid by free-form language: A large language action model with unified motion vocabulary, ArXiv.** 
+
+Zhirui Liu\#, Kaiyang Ji\#, Ke Yang, **Yahao Fan**, Jingyi Yu, Ye Shi, Jingya Wang\*
+
+[[**paper**]](https://arxiv.org/abs/2511.22963)
+[[**project**]](https://humanoidlla.github.io/)
 </div>
 </div>
 
@@ -45,4 +65,4 @@ Email: fanyahao12024 AT shanghaitech DOT edu DOT cn
 
 
 # 💻 Interships
-- *2024.3-2024.9*, Visiting Student, ShanghaiTech University, VDI Center, YesAI Lab
+- *2024.03 - 2024.09*, Visiting Student, ShanghaiTech University, VDI Center, YesAI Lab
