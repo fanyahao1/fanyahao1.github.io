@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Current a First-year Master student in VDI Center, ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io), who is an expert in the field of Optimization, Generative Model, Reinforcement Learning, Embodied AI. I get B.E. Degree in Zhengzhou University.
+I am Current a Second-year Master student in VDI Center, ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io), who is an expert in the field of Optimization, Generative Model, Reinforcement Learning, Embodied AI. I get B.E. Degree in Zhengzhou University.
 
 My Research interest include Embodied AI, Legged Robots and Simulation infrastructure. I am looking for internship and full-time opportunities in these areas. If you are interested in my research or want to collaborate with me, please feel free to contact me! You can find my Curriculum Vitae **[here](/assets/pdf/Curriculum_Vitae.pdf)**.
 
@@ -33,7 +33,7 @@ Email: fanyahao12024 AT shanghaitech DOT edu DOT cn
 **Yahao Fan\#**, Tianxiang Gui\#, Kaiyang Ji\#, Shutong Ding, Chixuan Zhang, Yifeng Xu, Ke Yang, Jiayuan Gu, Jingyi Yu, Jingya Wang, Ye Shi\*
 
 [[**paper**]](https://arxiv.org/abs/2505.18780)
-[[**project**]](https://dreampolicy.github.io/)  
+<!-- [[**project**]](https://dreampolicy.github.io/)   -->
 </div>
 </div>
 
