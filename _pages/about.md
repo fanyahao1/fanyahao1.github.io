@@ -19,7 +19,7 @@ redirect_from:
 
 I am Current a Second-year Master student in VDI Center, ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io), who is an expert in the field of Optimization, Generative Model, Reinforcement Learning, Embodied AI. I get B.E. Degree in Zhengzhou University.
 
-My Research interest include Embodied AI, Legged Robots and Simulation infrastructure. I am looking for internship and full-time opportunities in these areas. If you are interested in my research or want to collaborate with me, please feel free to contact me! You can find my Curriculum Vitae **[here](/assets/pdf/Curriculum_Vitae.pdf)**.
+My Research interest include Embodied AI, Legged Robots and Simulation infrastructure. I am looking for internship and full-time opportunities in these areas. If you are interested in my research or want to collaborate with me, please feel free to contact me! You can find my Curriculum Vitae **[here](/assets/pdf/curriculum_vitae.pdf)**.
 
 Email: fanyahao12024 AT shanghaitech DOT edu DOT cn
 
