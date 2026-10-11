@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Current a Second-year Master student in VDI Center, ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io), who is an expert in the field of Optimization, Generative Model, Reinforcement Learning, Embodied AI. I get B.E. Degree in Zhengzhou University.
+I am currently a Master student at the VDI Center, ShanghaiTech University, under the supervision of [Prof. Ye Shi](https://shiye21.github.io), who is an expert in the field of Optimization, Generative Models, Reinforcement Learning, and Embodied AI. I received my B.E. degree from Zhengzhou University.
 
 My Research interest include Embodied AI, Legged Robots and Simulation infrastructure. I am looking for internship and full-time opportunities in these areas. If you are interested in my research or want to collaborate with me, please feel free to contact me! You can find my Curriculum Vitae **[here](/assets/pdf/curriculum_vitae.pdf)**.
 
-Email: fanyahao12024 AT shanghaitech DOT edu DOT cn
+Email: fanyahao AT shanghaitech DOT edu DOT cn
 
 
 # 📝 Publications
@@ -64,5 +64,53 @@ Zhirui Liu\#, Kaiyang Ji\#, Ke Yang, **Yahao Fan**, Jingyi Yu, Ye Shi, Jingya Wa
 - *2020.09 - 2024.06*, Zhengzhou University, major in **Computer Science and Technology**
 
 
-# 💻 Interships
+# 💻 Internships
+
+<div class='exp-box'>
+<div class='exp-box-logo'><img src='images/logos/agibot.png' alt="AgiBot logo"></div>
+<div class='exp-box-text' markdown="1">
+**Reinforcement Learning Locomotion Control Intern** · AgiBot (智元创新)<br>
+*2026.07 - Present · Central R&D Department*
+
+- Led early-stage research on the Lingxi X2 REACT framework and its embodiment adaptation, driving the engineering implementation and deployment of the diffusion generation and tracking policy.
+- Migrated the diffusion generator and tracker from PARC to Lingxi X2, completing the adaptation of the Lingxi series models and validating the control pipeline.
+- Reproduced DreamPolicy on Lingxi X2, closing the training - generation - deployment loop of a unified multi-terrain locomotion policy, achieving over 95% success rate on complex terrain traversal.
+</div>
+</div>
+
+<div class='exp-box'>
+<div class='exp-box-logo'><img src='images/logos/gigaai.png' alt="GigaAI logo"></div>
+<div class='exp-box-text' markdown="1">
+**Embodied AI RL Locomotion Algorithm Intern** · GigaAI (极佳视界)<br>
+*2026.03 - 2026.07 · Large Model Architecture Department*
+
+- Led the GigaBrain-PingPong project: built the multi-embodiment humanoid training framework and model training pipeline with unified task modeling and embodiment adaptation, and integrated ball-trajectory physics prediction, post-bounce replanning and hit-recovery control, reaching over 99% simulated hit success and over 95% return success.
+- Trained the tracking motion prior and teacher policies, and distilled them into embodiment-observable control policies via DAgger.
+- Deployed on Unitree G1 and GigaAI Maker L01, achieving 132 consecutive human-robot rallies, a record for humanoid table tennis; the work was featured in GigaAI's official announcement and demonstrated at WRC 2026.
+</div>
+</div>
+
 - *2024.03 - 2024.09*, Visiting Student, ShanghaiTech University, VDI Center, YesAI Lab
+
+
+# 🛠 Skills
+
+<table class="skills-table">
+  <tr><td><strong>Programming</strong></td><td>Python, C++, Git, Bash, Markdown</td></tr>
+  <tr><td><strong>Algorithms &amp; Frameworks</strong></td><td>Reinforcement Learning (PPO, AMP, PULSE), DAgger, Imitation Learning, ROS / ROS2</td></tr>
+  <tr><td><strong>Robotics</strong></td><td>Rigid-body kinematics and dynamics, FK / IK solving, Pinocchio</td></tr>
+  <tr><td><strong>Simulation</strong></td><td>Isaac Lab, Isaac Gym, MuJoCo, Genesis, Domain Randomization</td></tr>
+  <tr><td><strong>Robot Platforms</strong></td><td>AgiBot Lingxi X2, Unitree G1, Unitree H1 / H1-2, Booster T1, Unitree Go2</td></tr>
+</table>
+
+
+# 🏆 Honors and Awards
+- *2022*, Second Prize, RoboCup China (FIRA Small-Size League, Soccer Robot), Zhengzhou University
+- *2022*, Second Prize, RoboCup China (Simulation 2D League, Soccer Robot), Zhengzhou University
+
+
+# 🌍 Community
+- *2026*, **WRC 2026** — demonstrated the GigaBrain-PingPong humanoid table tennis system on site.
+- *2025*, **ICCV 2025 Challenge Organizer** — built the multi-terrain locomotion benchmark platform, evaluation environments, and rules.
+- *2025*, **GDPS 2025 Robotics Showcase** — invited to demonstrate reinforcement-learning-driven humanoid dance.
+- Contributor to the **InstinctLab**, **GenesisLab**, and **Newton Physics Engine** open-source communities.
