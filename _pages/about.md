@@ -72,9 +72,8 @@ Zhirui Liu\#, Kaiyang Ji\#, Ke Yang, **Yahao Fan**, Jingyi Yu, Ye Shi, Jingya Wa
 **Reinforcement Learning Motion Control Intern** · [AgiBot](https://www.agibot.com) (智元创新)<br>
 *2026.07 - Present · Central R&D Department*
 
-- Led early-stage research on the Lingxi X2 REACT framework and its embodiment adaptation, driving the engineering implementation and deployment of the diffusion generation and tracking policy.
-- Migrated the diffusion generator and tracker from PARC to Lingxi X2, completing the adaptation of the Lingxi series models and validating the control pipeline.
-- Reproduced [DreamPolicy](https://arxiv.org/abs/2505.18780) on Lingxi X2, closing the training - generation - deployment loop of a unified multi-terrain locomotion policy, achieving over 95% success rate on complex terrain traversal.
+- Led the Lingxi X2 REACT framework pre-research and embodiment adaptation, migrating the diffusion generator and tracker from PARC to the Lingxi series.
+- Reproduced [DreamPolicy](https://arxiv.org/abs/2505.18780) on Lingxi X2, closing the training - generation - deployment loop of a unified multi-terrain locomotion policy with over 95% success rate on complex terrain.
 </div>
 </div>
 
@@ -84,9 +83,8 @@ Zhirui Liu\#, Kaiyang Ji\#, Ke Yang, **Yahao Fan**, Jingyi Yu, Ye Shi, Jingya Wa
 **Embodied AI RL Motion Control Algorithm Intern** · [GigaAI](https://www.gigaai.cc) (极佳视界)<br>
 *2026.03 - 2026.07 · Large Model Architecture Department*
 
-- Led the GigaBrain-PingPong project: built the multi-embodiment humanoid training framework and model training pipeline with unified task modeling and embodiment adaptation, and integrated ball-trajectory physics prediction, post-bounce replanning and hit-recovery control, reaching over 99% simulated hit success and over 95% return success.
-- Trained the tracking motion prior and teacher policies, and distilled them into embodiment-observable control policies via DAgger.
-- Deployed on Unitree G1 and GigaAI Maker L01, achieving 132 consecutive human-robot rallies, a record for humanoid table tennis; the work was featured in GigaAI's [official announcement](https://mp.weixin.qq.com/s/BgtrRQ80jUhw9zLC9pGxQg) and demonstrated at WRC 2026.
+- Led the GigaBrain-PingPong project: multi-embodiment humanoid training framework, unified task modeling, and ball-trajectory prediction with hit-recovery control, reaching over 99% simulated hit success.
+- Deployed on Unitree G1 and GigaAI Maker L01 with 132 consecutive human-robot rallies, a record for humanoid table tennis, featured in GigaAI's [official announcement](https://mp.weixin.qq.com/s/BgtrRQ80jUhw9zLC9pGxQg) and shown at WRC 2026.
 </div>
 </div>
 
