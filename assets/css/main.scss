@@ -90,7 +90,7 @@
 .exp-box {
     display: flex;
     justify-content: left;
-    align-items: center;
+    align-items: flex-start;
     flex-direction: row;
     flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
@@ -123,15 +123,15 @@
 
     @include breakpoint($medium) {
         .exp-box-logo {
-            justify-content: flex-start;
-            flex: 0 0 20%;
-            width: auto;
+            justify-content: center;
+            flex: 0 0 170px;
+            width: 170px;
             max-width: 170px;
             margin-bottom: 0;
         }
 
         .exp-box-text {
-            max-width: 80%;
+            max-width: calc(100% - 170px);
             padding-left: 2em;
         }
 
